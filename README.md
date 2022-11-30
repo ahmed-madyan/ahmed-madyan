@@ -9,7 +9,7 @@
 
 - 👯 I’m working as **Test Automation Squad Lead**
 
-- 🌱 I’m currently learning **Cypress with JS, and Robot Framework with Python**
+- 🌱 I’m currently learning **Cypress with JS**
 
 - 💬 Ask me about **Test Automation for UI, API, DB using Selenium, Rest-assured, with Java, Maven, TestNG**
 
