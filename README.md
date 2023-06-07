@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with [_VOIS](https://www.linkedin.com/company/vois/mycompany/)
 
-- 👯 I’m working as **Test Automation Squad Lead**
+- 👯 I’m working as **Senior Test Automation Engineer**
 
 - 🌱 I’m currently learning **Cypress with JS**
 
