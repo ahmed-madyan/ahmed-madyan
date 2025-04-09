@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-madyan" alt="ahmed-madyan" /></a> </p>
 
-- 🔭 I’m currently working with [_VOIS](https://www.linkedin.com/company/vois/mycompany/)
+- 🔭 I’m currently working with [Adree - A Master Works](https://www.linkedin.com/company/adree-company/)
 
 - 👯 I’m working as **Senior Test Automation Engineer**
 
