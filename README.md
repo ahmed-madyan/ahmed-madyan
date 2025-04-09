@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working with [Adree - A Master Works](https://www.linkedin.com/company/adree-company/)
 
-- 👯 I’m working as **Senior Test Automation Engineer**
+- 👯 I’m working as **QC Lead**
 
-- 🌱 I’m currently learning **Cypress with JS**
+- 🌱 I’m currently learning **Performance Testing using Locust tool with Python**
 
 - 💬 Ask me about **Test Automation for UI, API, DB using Selenium, Rest-assured, with Java, Maven, TestNG**
 
