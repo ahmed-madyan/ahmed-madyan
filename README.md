@@ -9,8 +9,6 @@
 
 - 👯 I’m working as **QC Lead**
 
-- 🌱 I’m currently learning **Performance Testing using Locust tool with Python**
-
 - 💬 Ask me about **Test Automation for UI, API, DB using Selenium, Rest-assured, with Java, Maven, TestNG**
 
 - 📫 How to reach me **ahmed.madyan01@gmail.com**
