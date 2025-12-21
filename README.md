@@ -1,30 +1,87 @@
-<h1 align="center">Hi 👋, I'm Ahmed Madyan</h1>
-<h3 align="center">Software Development Engineer in Test</h3>
+# Hi there, I'm Ahmed Madyan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-madyan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-madyan" /> </p>
+## Automation & Performance Team Lead | PMP®
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-madyan" alt="ahmed-madyan" /></a> </p>
+I'm a results-driven QC Team Lead with **8+ years of experience** specializing in automation and performance testing for enterprise and mobile applications. I lead teams in delivering scalable testing solutions for mission-critical systems serving millions of users.
 
-- 🔭 I’m currently working with [Adree - A Master Works](https://www.linkedin.com/company/adree-company/)
+### 🚀 What I Do
 
-- 👯 I’m working as **QC Lead**
+- Lead automation and performance engineering teams to optimize test coverage and accelerate delivery cycles
+- Design and implement scalable test automation frameworks for web, mobile, and API testing
+- Conduct performance testing (load, stress, endurance) to ensure system scalability and reliability
+- Integrate testing solutions into CI/CD pipelines to enable continuous quality assurance
+- Mentor teams in automation best practices and modern testing methodologies
 
-- 💬 Ask me about **Test Automation for UI, API, DB using Selenium, Rest-assured, with Java, Maven, TestNG**
+### 💼 Current Role
 
-- 📫 How to reach me **ahmed.madyan01@gmail.com**
+**Automation and Performance Team Lead** where I:
+- Implemented performance testing frameworks (Gatling & Locust) for a government super app serving millions
+- Led cross-functional teams in delivering faster test cycles with reduced manual effort
+- Integrated performance tests early in development cycles, catching critical defects pre-release
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lNNeEU_hgCuNNeKB2N1Ga-Op8ME3EKHk/view?usp=sharing](https://drive.google.com/file/d/1lNNeEU_hgCuNNeKB2N1Ga-Op8ME3EKHk/view?usp=sharing)
+### 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-madyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-madyan" height="30" width="40" /></a>
-</p>
+**Test Automation:**
+- Selenium | Appium | TOSCA | Cypress | REST Assured | SHAFT Engine
+- TestNG | Cucumber BDD | Java | Python
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+**Performance Testing:**
+- Apache JMeter | Gatling | Locust | NeoLoad
+- Grafana | Elastic
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-madyan&show_icons=true&locale=en&layout=compact" alt="ahmed-madyan" /></p>
+**CI/CD & DevOps:**
+- Jenkins | GitHub Actions | CircleCI | Maven
+- Git | Azure DevOps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-madyan&show_icons=true&locale=en" alt="ahmed-madyan" /></p>
+**Enterprise Systems:**
+- SAP (S/4HANA, Fiori, Ariba) | ERP | CRM | ServiceNow
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-madyan&" alt="ahmed-madyan" /></p>
+**Tools & Platforms:**
+- JIRA | QTest | Microsoft Project | Postman
+- AWS | BrowserStack | SQL/JDBC
+
+### 📜 Certifications
+
+- **PMP®** (Project Management Professional) - PMI
+- **PMI-ACP®** (Agile Certified Practitioner) - PMI
+- **ICAgile Test Automation** - ICAgile
+- **Tricentis TOSCA Product Consultant** - Tricentis
+- **ISTQB® Certified Tester Foundation Level**
+
+### 🎯 Featured Projects
+
+#### SDAIA Tawakkalna App
+Evaluated and implemented performance testing frameworks (Gatling & Locust), optimizing scalability for a multi-million-user government super app.
+
+#### TAHAKOM - SAP & ServiceNow Solutions
+- Developed reusable SAP automation components for S/4HANA, Fiori, and Ariba
+- Designed backend performance and automation strategies for ServiceNow services
+- Led end-to-end QA delivery for ERP, CRM, and government digital service projects
+
+#### VOIS Global Accounts
+- Led automation initiatives for enterprise portals and mobile applications
+- Reduced manual execution time by 30% through scalable automation frameworks
+- Automated critical systems including Change Management Portal, SLA Reporting, and EUUM platforms
+
+### 🎓 Education
+
+**Bachelor's Degree in Mechatronics Engineering**  
+Misr University for Science and Technology (2011-2016)
+
+### 📫 Connect With Me
+
+- 📧 Email: ahmed.madyan01@gmail.com
+- 💼 LinkedIn: [Ahmed Mahmoud](https://www.linkedin.com/in/ahmed-mahmoud01/)
+- 📱 Phone: +201008761167
+
+### 🌟 Professional Highlights
+
+- **8+ years** of hands-on experience in QA and test automation
+- Led **cross-functional teams** across multiple enterprise-scale projects
+- Expertise in **SAP, ERP, CRM** testing and automation
+- Strong focus on **performance optimization** and **scalability testing**
+- Proven track record in **government and enterprise digital transformation** projects
+
+---
+
+⭐️ From [ahmed-madyan](https://github.com/ahmed-madyan)
